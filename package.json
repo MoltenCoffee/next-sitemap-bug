@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "postbuild": "node next-sitemap",
+    "postbuild": "next-sitemap",
     "start": "next start"
   },
   "dependencies": {
