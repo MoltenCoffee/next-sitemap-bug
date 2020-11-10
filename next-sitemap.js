@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "https://ifmsa.nl",
+  siteUrl: "https://domain.nl",
   generateRobotsTxt: true,
   robotsTxtOptions: { policies: [{ userAgent: "*", disallow: "/api/" }] },
 };
